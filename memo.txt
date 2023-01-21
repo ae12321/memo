@@ -1,3 +1,5 @@
+-- extentios
+
 prettier
 GitHub Theme -> GitHub Dark Default
 Dev Containers
@@ -8,3 +10,6 @@ GitLens
 Language Support for Java(TM) by Red Hat
 Material Icon Theme
 Thunder Client
+
+-- 
+npm install json-server --save-dev
