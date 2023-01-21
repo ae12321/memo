@@ -1,1 +1,10 @@
 prettier
+GitHub Theme -> GitHub Dark Default
+Dev Containers
+Rainbow CSV
+SQLTools
+ES7+ React/Redux/React-Native snippets
+GitLens
+Language Support for Java(TM) by Red Hat
+Material Icon Theme
+Thunder Client
